@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evidence_pojisteni_basic", "evidence_pojisteni_basic.csproj", "{1F2B4735-7F08-4023-93AF-6644A458793F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2B4735-7F08-4023-93AF-6644A458793F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2B4735-7F08-4023-93AF-6644A458793F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2B4735-7F08-4023-93AF-6644A458793F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2B4735-7F08-4023-93AF-6644A458793F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22EBC3EF-12D1-46B3-B5C5-9E60405E542F}
+	EndGlobalSection
+EndGlobal
